@@ -1,5 +1,5 @@
 // => Variaveis [Type annotations]
-let nome = "Lucas";
+let nome: string = "Lucas";
 console.log(nome)
 
 // => Array 
